@@ -1,0 +1,98 @@
+[
+  {
+    "code": 0,
+    "message": "Transação autorizada com sucesso."
+  },
+  {
+    "code": 2,
+    "message": "Transação não autorizada. Referida (suspeita de fraude) pelo banco emissor."
+  },
+  {
+    "code": 9,
+    "message": "Transação cancelada parcialmente com sucesso"
+  },
+  {
+    "code": 11,
+    "message": "Transação autorizada com sucesso."
+  },
+  {
+    "code": 21,
+    "message": "Não foi possível processar o cancelamento. Se o erro persistir, entre em contato com a Cielo."
+  },
+  {
+    "code": 22,
+    "message": "Não foi possível processar a transação. Número de parcelas inválidas. Se o erro persistir, entre em contato com a Cielo."
+  },
+  {
+    "code": 24,
+    "message": "Não foi possível processar a transação. Quantidade de parcelas inválido. Se o erro persistir, entre em contato com a Cielo."
+  },
+  {
+    "code": 60,
+    "message": "Transação não autorizada. Tente novamente. Se o erro persistir o portador deve entrar em contato com o banco emissor."
+  },
+  {
+    "code": 67,
+    "message": "Transação não autorizada. Cartão bloqueado para compras hoje. Bloqueio pode ter ocorrido por excesso de tentativas inválidas. O cartão será desbloqueado automaticamente à meia noite."
+  },
+  {
+    "code": 70,
+    "message": "Transação não autorizada. Limite excedido/sem saldo."
+  },
+  {
+    "code": 72,
+    "message": "Cancelamento não efetuado. Saldo disponível para cancelamento insuficiente. Se o erro persistir, entre em contato com a Cielo."
+  },
+  {
+    "code": 79,
+    "message": "Transação não autorizada. Não é possível processar a transação devido a erro relacionado ao cartão do portador. Solicite ao portador que entre em contato com o banco emissor."
+  },
+  {
+    "code": 80,
+    "message": "Transação não autorizada. Data da transação ou data do primeiro pagamento inválida."
+  },
+  {
+    "code": 82,
+    "message": "Transação não autorizada devido a regras do emissor. Oriente o portador a entrar em contato com o banco emissor."
+  },
+  {
+    "code": 83,
+    "message": "Transação não autorizada. Suspeita de fraude pelo banco emissor."
+  },
+  {
+    "code": 85,
+    "message": "Transação não permitida. Houve um erro no processamento.Solicite ao portador que digite novamente os dados do cartão, se o erro persistir pode haver um problema no terminal do lojista, nesse caso o lojista deve entrar em contato com a Cielo."
+  },
+  {
+    "code": 89,
+    "message": "Transação não autorizada. Erro na transação. O portador deve tentar novamente e se o erro persistir, entrar em contato com o banco emissor."
+  },
+  {
+    "code": 90,
+    "message": "Transação não permitida. Houve um erro no processamento.Solicite ao portador que digite novamente os dados do cartão, se o erro persistir pode haver um problema no terminal do lojista, nesse caso o lojista deve entrar em contato com a Cielo."
+  },
+  {
+    "code": 92,
+    "message": "Transação não permitida. Houve um erro no processamento. Solicite ao portador que digite novamente os dados do cartão, se o erro persistir pode haver um problema no terminal do lojista, nesse caso o lojista deve entrar em contato com a Cielo."
+  },
+  {
+    "code": 94,
+    "message": "Transação não permitida. Erro na transação. O portador deve tentar novamente e se o erro persistir, entrar em contato com o banco emissor."
+  },
+  {
+    "code": 95,
+    "message": "Transação não permitida. Erro na transação. O portador deve tentar novamente e se o erro persistir, entrar em contato com o banco emissor."
+  },
+  {
+    "code": 96,
+    "message": "Transação não permitida. Erro na transação. O portador deve tentar novamente e se o erro persistir, entrar em contato com o banco emissor."
+  },
+  {
+    "code": 97,
+    "message": "Transação não permitida. Erro na transação. O portador deve tentar novamente e se o erro persistir, entrar em contato com o banco emissor."
+  },
+  {
+    "code": 99,
+    "message": "Transação não permitida. Erro na transação. O portador deve tentar novamente e se o erro persistir, entrar em contato com o banco emissor."
+  }
+]
