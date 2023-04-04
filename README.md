@@ -4,7 +4,7 @@ JSON atualizado de retornos de erro de transações da CIELO
 Para quem utiliza integrações com a CIELO é fundamental entender os erros gerados em algumas transações.
 Este JSON foi pensado para isto. Ao receber o erro da API, utilize o retorno `returnCode` para entender qual o erro ocorrido que acabou gerando a negatica da transação.
 
-<font color=red>E já deixo aqui uma dica:</font> fique sempre atento ás negativas de pagamento realizadas em seu projeto. Muitas das negativas são compras autênticas geradas por <u>políticas internas</u> dos gateways de pagamento. Por isso fique de olho e não perca conversões importantes ;)
+<b style="color:red">E já deixo aqui uma dica:</b> fique sempre atento ás negativas de pagamento realizadas em seu projeto. Muitas das negativas são compras autênticas geradas por <u>políticas internas</u> dos gateways de pagamento. Por isso fique de olho e não perca conversões importantes ;)
 
 Se precisar estou logo ali, no <a href="https://www.linkedin.com/in/olavo-mello/" target="_blank">Linkedin</a>
 
