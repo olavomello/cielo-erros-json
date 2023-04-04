@@ -9,6 +9,16 @@ Fique sempre atento ás negativas de pagamento realizadas em seu projeto. Muitas
 
 Se precisar estou logo ali, no <a href="https://www.linkedin.com/in/olavo-mello/" target="_blank">Linkedin</a>
 
+## Amostra do retorno JSON
+```json
+  [
+    {
+      "code": 0,
+      "message": "Transação autorizada com sucesso."
+    }
+  ]
+```
+
 ## Códigos exemplo em : <b>NodeJs, PHP, Python, ReactJs, Rust, Lua</b>
 
 ### NodeJS
